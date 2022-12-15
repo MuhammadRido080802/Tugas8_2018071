@@ -1,0 +1,38 @@
+<resources>
+    <string name="Open">Open</string>
+    <string name="Close">Close</string>
+    <string name="app_name">recyleView</string>
+    <string name="navigation_drawer_open">Open Navigation
+Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation
+Drawer</string>
+    <string name="ingredients" />
+    <string name="JenisJam" />
+    <string name="Harga_Jam" />
+    <string-array name="Jam">
+        <item>G-Shock</item>
+        <item>Guess</item>
+        <item>Rolex</item>
+        <item>Gucci</item>
+    </string-array>
+    <string-array name="star">
+        <item>4.9</item>
+        <item>4.8</item>
+        <item>4.9</item>
+    </string-array>
+    <string-array name="deskripsi">
+        <item>Rp. 1.110.000</item>
+        <item>Rp. 1.499.000</item>
+        <item>Rp. 2.500.000</item>
+    </string-array>
+    <string name="title_activity_display_data">DisplayData</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_datamenu">Datamenu</string>
+</resources>
